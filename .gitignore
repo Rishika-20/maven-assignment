@@ -1,3 +1,4 @@
 stringmanipulation/.idea/
 stringmanipulation/modify-strings/string-api/target/
 stringmanipulation/modify-strings/string-impl/target/
+*.iml
